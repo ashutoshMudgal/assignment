@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "psqluser",
+    "password": "java1234",
+    "database": "assignment",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "psqluser",
+    "password": "java1234",
+    "database": "assignment",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "psqluser",
+    "password": "java1234",
+    "database": "assignment",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
